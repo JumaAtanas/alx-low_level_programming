@@ -7,7 +7,7 @@ void print_triangle(int size)
 	int x, y, z;
 	if (size <= 0)
 	{
-	_putchar('\n');
+	_putchar("\n");
 	}
 	else
 	{
@@ -21,7 +21,7 @@ void print_triangle(int size)
 	{
 	_putchar(35);
 	}
-	_putchar('\n');
+	_putchar("\n");
 	}
 	}
 }
