@@ -9,4 +9,4 @@ void pits2(char *str);
 void puts_half(char *str);
 void print_array(int *a, int n);
 char *_starcpy(char *dest, char *src);
-char _atoi(char *s);
+int _atoi(char *s);
