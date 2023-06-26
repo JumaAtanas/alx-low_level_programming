@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- *comments
+ * *main - check the code
+ * comments
+ * Return always 0.
  */
 void reset_to_98(int *n)
 {
