@@ -1,4 +1,4 @@
-int _putchar(char c);
+int _putchar(char n);
 int reset_to_98(int c);
 void swap_int(int *a, int *b);
 int _strlen(char *s);
